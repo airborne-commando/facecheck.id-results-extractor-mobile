@@ -1,3 +1,5 @@
+# DOES NOT WORK ANYMORE USE OTHER METHODS TO FIND INFO WITH A PICTURE!
+
 # facecheck.id-results-extractor
 
 A script written in JavaScript to extract URLs from FaceCheck.id results for free. This script extracts base64-encoded img.webp data from FaceCheck search results. After the results page is detected the script displays the results on the webpage as clickable links. *(The way the results are displayed is different depending on the version you use.)
